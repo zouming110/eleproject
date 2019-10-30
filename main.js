@@ -10,7 +10,7 @@ Vue.config.productionTip = false
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
-  router,
+  this is a router daming,
   components: { App },
   template: '<App/>'
 })
